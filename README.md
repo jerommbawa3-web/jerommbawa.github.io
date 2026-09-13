@@ -79,4 +79,4 @@ Exploitation practice
 Security-tool experimentation
 ⚠️ Important: This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
 <img width="4080" height="3072" alt="IMG_20260912_231928" src="https://github.com/user-attachments/assets/cc9add97-fa30-440e-9c4e-2b9731d344df" />
- 
+ https://github.com/waqaskarimccie/NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP#%EF%B8%8F-lab-configuration
