@@ -131,36 +131,42 @@ Boot Kali Linux and assign static parameters via CLI or NetworkManager to mainta
 | **Verify Snapshot** | Restore snapshot & run `ip a` | Environment returns to baseline settings |
 
 ---
+**Problems Encountered & Solutions**
 
-# 🐞 Problems Encountered & Solutions
+**Problem 1: No Internet Connectivity After Static IP Setup**
 
-### Problem 1: No Internet Connectivity After Static IP Setup
-- **Cause:** NetworkManager default settings overriding static adapter settings or missing gateway routing rules.
-- **Solution:** Execute the connection override command and restart the connection interface:
-  ```bash
-  sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
-  sudo nmcli connection up "Wired connection 1"
+* **Cause:** NetworkManager default settings overriding static adapter settings or missing gateway routing rules.
+* **Solution:** Execute the connection override command and restart the connection interface:
+```bash
+sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
+sudo nmcli connection up "Wired connection 1"
 
 ```
 
-### Problem 2: Hardware Virtualization Disabled (VT-x / AMD-V Error)
+
+
+---
+
+**Problem 2: Hardware Virtualization Disabled (VT-x / AMD-V Error)**
 
 * **Cause:** Intel VT-x or AMD-V extensions turned off in system BIOS/UEFI firmware.
 * **Solution:**
-1. Restart host PC and access BIOS/UEFI setup (typically F2, F10, or Del).
+1. Restart host PC and access BIOS/UEFI setup (typically **F2**, **F10**, or **Del**).
 2. Locate **Intel Virtualization Technology** or **SVM Mode** under CPU options.
 3. Enable the feature, save settings, reboot into host OS, and start the VM.
 
 
 
-### Problem 3: VMware Network Adapter Stopped Working
+---
+
+**Problem 3: VMware Network Adapter Stopped Working**
 
 * **Cause:** VMware background network services stopped on host.
 * **Solution:** Open Windows `services.msc`, locate `VMware DHCP Service` and `VMware NAT Service`, and select **Restart**.
 
 ---
 
-# 💡 What I Learned
+**💡 What I Learned**
 
 1. **NAT vs. NAT Network:** A standard NAT isolates guests individually, whereas a **NAT Network** allows multiple target and attacking VMs to intercommunicate on the same virtual subnet while sharing outbound host internet access.
 2. **Virtual Machine Networking Modes:** Understanding the difference between Bridged (`VMnet0`), Host-Only (`VMnet1`), and NAT (`VMnet8`) adapters in VMware Workstation.
@@ -170,21 +176,21 @@ Boot Kali Linux and assign static parameters via CLI or NetworkManager to mainta
 
 ---
 
-# 🔐 Security & Ethical Use
+**🔐 Security & Ethical Use**
 
 This laboratory is intended strictly for educational, research, and authorized security testing purposes. All exercises must be executed within isolated lab networks on systems you own or have explicit authorization to audit.
 
 ---
 
-# 🔗 Tools & Resources
+**🔗 Tools & Resources**
 
 * [7-Zip Archiver](https://7-zip.org/download.html)
 * [VMware Workstation](https://www.vmware.com)
-* [Kali Linux Downloads](https://kali.org/get-kali)
+* [Kali Linux Downloads](https://www.google.com/search?q=https://kali.org/get-kali)
 
 ---
 
-# 👤 Author
+**👤 Author**
 
 **Jerom Mbawa** — Cybersecurity Professional
 
@@ -192,12 +198,8 @@ Connect with me: [LinkedIn](https://www.linkedin.com/in/jerom-mbawa-2466242a8) |
 
 ---
 
-### 📌 Project Information
+**📌 Project Information**
 
 * **Program:** Cybersecurity Lab Setup
 * **Environment:** VMware Workstation / Kali Linux
 * **Repository:** GitHub
-
-```
-
-```
