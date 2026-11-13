@@ -1,0 +1,924 @@
+                                                                                                                                                                                                                                           
+┌──(kali㉿kali)-[~]
+└─$ curl -i https://networkwalks.com
+HTTP/1.1 200 OK
+Date: Fri, 13 Nov 2026 14:04:59 GMT
+Server: Apache
+Permissions-Policy: private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")
+Link: <https://networkwalks.com/wp-json/>; rel="https://api.w.org/", <https://networkwalks.com/wp-json/wp/v2/pages/53>; rel="alternate"; title="JSON"; type="application/json", <https://networkwalks.com/>; rel=shortlink
+Set-Cookie: __wpdm_client=ad7f5c07c649966fac476c2c4b0bc8c9; path=/; domain=networkwalks.com; secure; HttpOnly
+Vary: Accept-Encoding
+Referrer-Policy: no-referrer-when-downgrade
+X-Endurance-Cache-Level: 0
+X-nginx-cache: WordPress
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html><html lang="en-US"><head>
+            <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+        
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+        <!-- This site is optimized with the Yoast SEO plugin v28.8 - https://yoast.com/product/yoast-seo-wordpress/ -->
+        <title>Networkwalks Academy</title>
+        <meta name="description" content="We specialise in Network &amp; IT training courses including Cisco CCNA, CCNP, Cybersecurity, Ethical Hacking, Python Programming &amp; Linux." />
+        <link rel="canonical" href="https://networkwalks.com/" />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Networkwalks Academy" />
+        <meta property="og:description" content="We specialise in Network &amp; IT training courses including Cisco CCNA, CCNP, Cybersecurity, Ethical Hacking, Python Programming &amp; Linux." />
+        <meta property="og:url" content="https://networkwalks.com/" />
+        <meta property="og:site_name" content="Networkwalks Academy" />
+        <meta property="article:publisher" content="https://www.facebook.com/NetworkWalks/" />
+        <meta property="article:modified_time" content="2026-08-04T03:11:27+00:00" />
+        <meta property="og:image" content="https://networkwalks.com/wp-content/uploads/2019/12/Network-Walks-Logo-v1.1-small-PNG_200x200.png" />
+        <meta property="og:image:width" content="200" />
+        <meta property="og:image:height" content="200" />
+        <meta property="og:image:type" content="image/png" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@networkwalks" />
+        <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/networkwalks.com\/","url":"https:\/\/networkwalks.com\/","name":"Networkwalks Academy","isPartOf":{"@id":"https:\/\/networkwalks.com\/#website"},"about":{"@id":"https:\/\/networkwalks.com\/#organization"},"primaryImageOfPage":{"@id":"https:\/\/networkwalks.com\/#primaryimage"},"image":{"@id":"https:\/\/networkwalks.com\/#primaryimage"},"thumbnailUrl":"https:\/\/networkwalks.com\/wp-content\/uploads\/2019\/12\/Network-Walks-Logo-v1.1-small-PNG_200x200.png","datePublished":"2019-11-17T13:06:21+00:00","dateModified":"2026-08-04T03:11:27+00:00","description":"We specialise in Network & IT training courses including Cisco CCNA, CCNP, Cybersecurity, Ethical Hacking, Python Programming & Linux.","breadcrumb":{"@id":"https:\/\/networkwalks.com\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/networkwalks.com\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/networkwalks.com\/#primaryimage","url":"https:\/\/networkwalks.com\/wp-content\/uploads\/2019\/12\/Network-Walks-Logo-v1.1-small-PNG_200x200.png","contentUrl":"https:\/\/networkwalks.com\/wp-content\/uploads\/2019\/12\/Network-Walks-Logo-v1.1-small-PNG_200x200.png","width":200,"height":200},{"@type":"BreadcrumbList","@id":"https:\/\/networkwalks.com\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/networkwalks.com\/#website","url":"https:\/\/networkwalks.com\/","name":"Networkwalks Academy","description":"LEARN CERTIFY CONQUER","publisher":{"@id":"https:\/\/networkwalks.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/networkwalks.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/networkwalks.com\/#organization","name":"Networkwalks Academy","url":"https:\/\/networkwalks.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/networkwalks.com\/#\/schema\/logo\/image\/","url":"https:\/\/i0.wp.com\/networkwalks.com\/wp-content\/uploads\/2019\/12\/Network-Walks-Logo-v1.1-PNG_600x600.png?fit=600%2C600&ssl=1","contentUrl":"https:\/\/i0.wp.com\/networkwalks.com\/wp-content\/uploads\/2019\/12\/Network-Walks-Logo-v1.1-PNG_600x600.png?fit=600%2C600&ssl=1","width":600,"height":600,"caption":"Networkwalks Academy"},"image":{"@id":"https:\/\/networkwalks.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/NetworkWalks\/","https:\/\/x.com\/networkwalks","https:\/\/www.instagram.com\/networkwalks\/","https:\/\/www.linkedin.com\/company\/networkwalks","https:\/\/za.pinterest.com\/networkwalkss\/","https:\/\/www.youtube.com\/channel\/UCA5vnifZXWur6gHyK81hsTA"]}]}</script>
+        <meta name="google-site-verification" content="Kjo3a_OQIEqT0lIOWfTKt24rY1eSSe7dM5gQ5Er27qQ" />
+        <!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Networkwalks Academy &raquo; Feed" href="https://networkwalks.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Networkwalks Academy &raquo; Comments Feed" href="https://networkwalks.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://networkwalks.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnetworkwalks.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://networkwalks.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnetworkwalks.com%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+        img.wp-smiley, img.emoji {
+                display: inline !important;
+                border: none !important;
+                box-shadow: none !important;
+                height: 1em !important;
+                width: 1em !important;
+                margin: 0 0.07em !important;
+                vertical-align: -0.1em !important;
+                background: none !important;
+                padding: 0 !important;
+        }
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='contact-form-7-css' href='https://networkwalks.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.2.5' media='all' />
+<link rel='stylesheet' id='wpsm_counter-font-awesome-front-css' href='https://networkwalks.com/wp-content/plugins/counter-number-showcase/assets/css/font-awesome/css/font-awesome.min.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='wpsm_counter_bootstrap-front-css' href='https://networkwalks.com/wp-content/plugins/counter-number-showcase/assets/css/bootstrap-front.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='wpsm_counter_column-css' href='https://networkwalks.com/wp-content/plugins/counter-number-showcase/assets/css/counter-column.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='wpdm-fonticon-css' href='https://networkwalks.com/wp-content/plugins/download-manager/assets/wpdm-iconfont/css/wpdm-icons.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='wpdm-front-css' href='https://networkwalks.com/wp-content/plugins/download-manager/assets/css/front.min.css?ver=3.3.76' media='all' />
+<link rel='stylesheet' id='wpdm-front-dark-css' href='https://networkwalks.com/wp-content/plugins/download-manager/assets/css/front-dark.min.css?ver=3.3.76' media='all' />
+<link rel='stylesheet' id='wpdm-modal-css' href='https://networkwalks.com/wp-content/plugins/download-manager/assets/modal/wpdm-modal.min.css?ver=3.3.76' media='all' />
+<link rel='stylesheet' id='wp-video-popup-css' href='https://networkwalks.com/wp-content/plugins/responsive-youtube-vimeo-popup/assets/css/wp-video-popup.css?ver=2.11.1' media='all' />
+<link rel='stylesheet' id='code_embed_responsive-css' href='https://networkwalks.com/wp-content/plugins/simple-embed-code/css/video-container.min.css?ver=2.6.4' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://networkwalks.com/wp-includes/css/dashicons.min.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='theme-my-login-css' href='https://networkwalks.com/wp-content/plugins/theme-my-login/assets/styles/theme-my-login.min.css?ver=7.3.1' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://networkwalks.com/wp-content/themes/education-hub-pro/third-party/font-awesome/css/font-awesome.min.css?ver=4.7.0' media='all' />
+<link rel='stylesheet' id='education-hub-google-fonts-css' href='//fonts.googleapis.com/css?family=Merriweather+Sans%3A400italic%2C700italic%2C400%2C700%7COpen+Sans%3A400italic%2C700italic%2C400%2C700&#038;subset=latin%2Clatin-ext' media='all' />
+<link rel='stylesheet' id='education-hub-style-css' href='https://networkwalks.com/wp-content/themes/education-hub-pro/style.css?ver=3.0.0' media='all' />
+<script id="bodhi-dompurify-library-js" src="https://networkwalks.com/wp-content/plugins/svg-support/vendor/DOMPurify/DOMPurify.min.js?ver=3.4.17"></script>
+<script id="jquery-core-js" src="https://networkwalks.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://networkwalks.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="wpdm-modal-js" src="https://networkwalks.com/wp-content/plugins/download-manager/assets/modal/wpdm-modal.min.js?ver=3.3.76"></script>
+<script id="wpdm-frontend-js-js" src="https://networkwalks.com/wp-content/plugins/download-manager/assets/js/wpdm.min.js?ver=7.1.4"></script>
+<script id="wpdm-frontjs-js-extra">
+var wpdm_url = {"home":"https://networkwalks.com/","site":"https://networkwalks.com/","ajax":"https://networkwalks.com/wp-admin/admin-ajax.php"};
+var wpdm_js = {"spinner":"\u003Ci class=\"wpdm-icon wpdm-sun wpdm-spin\"\u003E\u003C/i\u003E","client_id":"ad7f5c07c649966fac476c2c4b0bc8c9"};
+var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click following button to start download.","start_dl":"Start Download"};
+//# sourceURL=wpdm-frontjs-js-extra
+</script>
+<script id="wpdm-frontjs-js" src="https://networkwalks.com/wp-content/plugins/download-manager/assets/js/front.min.js?ver=3.3.76"></script>
+<script id="bodhi_svg_inline-js-extra">
+var svgSettings = {"skipNested":""};
+//# sourceURL=bodhi_svg_inline-js-extra
+</script>
+<script id="bodhi_svg_inline-js" src="https://networkwalks.com/wp-content/plugins/svg-support/js/min/svgs-inline-min.js?ver=2.6.3"></script>
+<script id="bodhi_svg_inline-js-after">
+cssTarget={"Bodhi":"img.style-svg","ForceInlineSVG":"style-svg"};ForceInlineSVGActive="false";frontSanitizationEnabled="on";
+//# sourceURL=bodhi_svg_inline-js-after
+</script>
+<link rel="https://api.w.org/" href="https://networkwalks.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://networkwalks.com/wp-json/wp/v2/pages/53" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://networkwalks.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.4" />
+<link rel='shortlink' href='https://networkwalks.com/' />
+<!-- HFCM by 99 Robots - Snippet # 1: GTM Header Tag -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PDVT4775');</script>
+<!-- End Google Tag Manager -->
+<!-- /end HFCM by 99 Robots -->
+<!-- HFCM by 99 Robots - Snippet # 2: GTM Body Tag -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDVT4775"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- /end HFCM by 99 Robots -->
+          <style>
+          .has-post-thumbnail img.wp-post-image, 
+          .attachment-twentyseventeen-featured-image.wp-post-image { display: none !important; }          
+          </style><link rel="icon" href="https://networkwalks.com/wp-content/uploads/2019/11/cropped-Network-Walks-Very-Basic-Logo-v1.1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://networkwalks.com/wp-content/uploads/2019/11/cropped-Network-Walks-Very-Basic-Logo-v1.1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://networkwalks.com/wp-content/uploads/2019/11/cropped-Network-Walks-Very-Basic-Logo-v1.1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://networkwalks.com/wp-content/uploads/2019/11/cropped-Network-Walks-Very-Basic-Logo-v1.1-270x270.png" />
+<style type="text/css">h1,h2,h3,h4,h5,h6{color:#aa0000}
+.search-form .search-submit,.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button{background-color:#960000}
+a.cta-button-primary,.nav-links a,.comment-reply-link,button, input[type="button"], input[type="reset"], input[type="submit"],#infinite-handle span button{background-color:#960000}
+.site-title > a{color:#eaeaea}
+.search-form input[type="submit"]{background-color:#3a3a3a}
+.search-form input[type="submit"]:hover{background-color:#960000}
+#tophead ,#tophead p{background-color:#960000}
+#tophead #quick-contact a:hover,#quick-contact li:hover a,#quick-contact .top-news a:hover{color:#dbdbdb}
+#quick-contact li::before,.top-news-title::before{color:#ffffff}
+.quick-links a.links-btn::before {border-top-color:#960000}
+.quick-links a.links-btn::after{background-color:#ffffff}
+.quick-links a.links-btn:hover::after{background-color:#960000}
+.quick-links ul li a{color:#454566}
+.quick-links ul li a:hover{background-color:#960000}
+#main-nav,#main-nav ul ul,.menu-toggle,.main-navigation ul{background-color:#3a3a3a}
+#main-nav ul li a:hover,#main-nav ul li:hover > a, #main-nav li.current-menu-item > a,
+                                  #main-nav li.current_page_item > a,.menu-toggle:hover{background-color:#960000}
+#main-nav{border-color:#960000}
+.site-content .entry-title a{color:#960000}
+.content-area a{color:#2957c4}
+.content-area .entry-meta > span a,.content-area  .entry-footer > span a{color:#967207}
+#main-slider .cycle-prev:hover::after, #main-slider .cycle-next:hover::after{background-color:#a8a8a8}
+#main-slider .pager-box{background-color:#727272}
+#sidebar-front-page-widget-area .widget-title,#sidebar-front-page-widget-area-lower .widget-title{color:#960000}
+#featured-news-events h2{color:#960000}
+#featured-news-events h3 a{color:#960000}
+.news-content{border-color:#960000}
+#sidebar-primary .widget-title, #sidebar-secondary .widget-title{background-color:#960000}
+#sidebar-primary .widget-title::after, #sidebar-secondary .widget-title::after{border-top-color:#960000}
+#sidebar-primary .widget-title, #sidebar-secondary .widget-title{border-color:#bababa}
+.widget-area ul li::before{color:#ffffff}
+#colophon{background-color:#960000}
+#btn-scrollup i.fa{color:#eeee22}
+#btn-scrollup{background-color:#3a3a3a}
+#btn-scrollup:hover{background-color:#3a3a3a}
+.pagination .nav-links > span.current, .pagination .nav-links > a:hover, .wp-pagenavi span.current, .wp-pagenavi a:hover{background-color:#960000}
+#footer-widgets{border-color:#960000}
+</style><style id="wp-custom-css">
+/* For correct SVG scaling */
+.style-svg {
+       max-width: 100%;
+       height: 100%;
+}
+
+
+/* Vk:2024-09-29 For hiding header,footer and main menu on a page with page_id=10958 */
+/* 
+.page-id-10958 header, .page-id-10958 footer, .page-id-10958 .main-navigation, .page-id-10958 tophead, .quick-links, .top-news, .quick-email, .quick-call {
+    display: none !important;
+} 
+*/
+
+.page-id-10958 header, 
+.page-id-10958 footer, 
+.page-id-10958 .main-navigation, 
+.page-id-10958 .tophead, 
+.page-id-10958 .quick-links, 
+.page-id-10958 .quick-email, 
+.page-id-10958 .quick-call, 
+.page-id-10958 .top-news 
+{display: none !important;}
+
+</style>
+<meta name="generator" content="WordPress Download Manager 3.3.76" />
+                <style>
+        /* WPDM Link Template Styles */        </style>
+                <style>
+
+            :root {
+                --color-primary: #1e73be;
+                --color-primary-rgb: 30, 115, 190;
+                --color-primary-hover: #494949;
+                --color-primary-active: #2677bf;
+                --clr-sec: #6c757d;
+                --clr-sec-rgb: 108, 117, 125;
+                --clr-sec-hover: #6c757d;
+                --clr-sec-active: #6c757d;
+                --color-secondary: #6c757d;
+                --color-secondary-rgb: 108, 117, 125;
+                --color-secondary-hover: #6c757d;
+                --color-secondary-active: #6c757d;
+                --color-success: #18ce0f;
+                --color-success-rgb: 24, 206, 15;
+                --color-success-hover: #18ce0f;
+                --color-success-active: #18ce0f;
+                --color-info: #2CA8FF;
+                --color-info-rgb: 44, 168, 255;
+                --color-info-hover: #2CA8FF;
+                --color-info-active: #2CA8FF;
+                --color-warning: #FFB236;
+                --color-warning-rgb: 255, 178, 54;
+                --color-warning-hover: #FFB236;
+                --color-warning-active: #FFB236;
+                --color-danger: #ff5062;
+                --color-danger-rgb: 255, 80, 98;
+                --color-danger-hover: #ff5062;
+                --color-danger-active: #ff5062;
+                --color-green: #30b570;
+                --color-blue: #0073ff;
+                --color-purple: #8557D3;
+                --color-red: #ff5062;
+                --color-muted: rgba(69, 89, 122, 0.6);
+                --wpdm-font: "Sen", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            }
+
+            .wpdm-download-link.btn.btn-primary {
+                border-radius: 4px;
+            }
+
+
+        </style>
+        <link rel='stylesheet' id='so-css-education-hub-pro-css' href='https://networkwalks.com/wp-content/uploads/so-css/so-css-education-hub-pro.css?ver=1783976766' media='all' />
+
+</head>
+
+<body data-rsssl=1 class="home wp-singular page-template-default page page-id-53 wp-custom-logo wp-embed-responsive wp-theme-education-hub-pro group-blog site-layout-fluid global-layout-no-sidebar enabled-sticky-primary-menu">
+
+            <div id="page" class="container hfeed site">
+    <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+        <div id="tophead">
+                <div class="container">
+                        <div id="quick-contact">
+                                                                        <ul>
+                                                                                                        <li class="quick-call"><a href="tel:27766222218971528110952">+27766222218 | +971(5)28110952</a></li>
+                                                                                                                                                        <li class="quick-email"><a href="mailto:info@networkwalks.com">&#105;&#110;f&#111;&#064;&#110;e&#116;&#119;o&#114;k&#119;a&#108;&#107;&#115;&#046;c&#111;m</a></li>
+                                                                                        </ul>
+                                                                                                        <div class="top-news">
+                                                <span class="top-news-title">
+                                                                                                                                                        Notice:                                                                           </span>
+
+                                                                        <div id="notice-ticker">
+                        <div class="notice-inner-wrap">
+                                                                        <div class="list">
+                                                <a href="https://networkwalks.com/my-wordlists-collection-1/">My Wordlists Collection 1 (Dictionaries / Password Lists)</a>
+                                        </div>
+                                                                        <div class="list">
+                                                <a href="https://networkwalks.com/password-cracking-with-jtr-john-the-ripper-project-task-lab/">Password Cracking with JTR John the Ripper (Project Task / Lab)</a>
+                                        </div>
+                                                                        <div class="list">
+                                                <a href="https://networkwalks.com/password-cracking-with-networkwalks-tools-project-task-lab/">Password Cracking with Networkwalks tools (Project Task / Lab)</a>
+                                        </div>
+                                                                        <div class="list">
+                                                <a href="https://networkwalks.com/lab-practice-network-scanning-with-zenmap/">Lab Practice &#8211; Zenmap Network Scanning (Nmap)</a>
+                                        </div>
+                                                                        <div class="list">
+                                                <a href="https://networkwalks.com/how-to-setup-hexstrike-mcp-with-claude-desktop/">LAB PRACTICE &#8211; How to setup Hexstrike MCP with Claude desktop</a>
+                                        </div>
+                                                                        <div class="list">
+                                                <a href="https://networkwalks.com/crack-passwords-with-hexstrike-ai-jtr/">LAB PRACTICE &#8211; How to crack passwords with Hexstrike AI and JTR (AI-version)</a>
+                                        </div>
+                                                                        <div class="list">
+                                                <a href="https://networkwalks.com/what-is-nmap/">What is Nmap? A comprehensive guide to Network Scanning for Ethical Hacking</a>
+                                        </div>
+                                                                        <div class="list">
+                                                <a href="https://networkwalks.com/vlan-virtual-local-area-network/">VLAN (Virtual Local Area Network)</a>
+                                        </div>
+                                                        </div> <!-- .notice-inner-wrap -->
+                </div><!-- #notice-ticker -->
+
+
+                                        </div>
+                                                        </div>
+
+                                                        <div class="quick-links">
+                                        <a href="#" class="links-btn">Quick Links</a>
+                                        <ul id="menu-test_menu" class="menu"><li id="menu-item-11471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11471"><a href="https://networkwalks.com/login/">Login</a></li>
+<li id="menu-item-11472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11472"><a href="https://networkwalks.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-11473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11473"><a href="https://networkwalks.com/cisco-training-courses/cisco-bgp-masterclass/">Cisco BGP Masterclass</a></li>
+<li id="menu-item-11474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11474"><a href="https://networkwalks.com/cisco-ccna-training/">Cisco CCNA Online Training Course</a></li>
+<li id="menu-item-11475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11475"><a href="https://networkwalks.com/cybersecurity-ethical-hacking/">CYBER SECURITY WITH ETHICAL HACKING (ONLINE TRAINING COURSE)</a></li>
+<li id="menu-item-11476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11476"><a href="https://networkwalks.com/python-programming-online-training-course/">PYTHON PROGRAMMING (ONLINE TRAINING COURSE)</a></li>
+<li id="menu-item-11477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11477"><a href="https://networkwalks.com/nw-premium-membership/">NW PREMIUM MEMBERSHIP</a></li>
+</ul>                           </div>
+
+
+                </div> <!-- .container -->
+        </div><!--  #tophead -->
+
+        <header id="masthead" class="site-header" role="banner"><div class="container">             <div class="site-branding">
+
+            <a href="https://networkwalks.com/" class="custom-logo-link" rel="home" aria-current="page"><img width="445" height="200" src="https://networkwalks.com/wp-content/uploads/2019/11/Network-Walks-Logo-v1.1-e1575209636548.png" class="custom-logo" alt="Network Walks Logo" decoding="async" fetchpriority="high" /></a>
+
+    </div><!-- .site-branding -->
+
+                    <div class="search-section">
+                <form role="search" method="get" class="search-form" action="https://networkwalks.com/">
+              <label>
+                <span class="screen-reader-text">Search for:</span>
+                <input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+              </label>
+              <input type="submit" class="search-submit" value="Search" />
+            </form>         </div>
+            </div><!-- .container --></header><!-- #masthead -->    <div id="main-nav" class="clear-fix">
+        <div class="container">
+        <nav id="site-navigation" class="main-navigation" role="navigation">
+          <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><i class="fa fa-bars"></i>Menu</button>
+            <div class="wrap-menu-content">
+                                <div class="menu-main-container"><ul id="primary-menu" class="menu"><li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-229"><a href="https://networkwalks.com/" aria-current="page">Home</a></li>
+<li id="menu-item-17637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17637"><a href="https://networkwalks.com/services/">Services</a></li>
+<li id="menu-item-17453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17453"><a href="https://networkwalks.com/it-diploma-course/">Cyber IT Diploma</a></li>
+<li id="menu-item-183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-183"><a href="https://networkwalks.com/cisco-training-courses/">Cisco &#038; IT Courses</a>
+<ul class="sub-menu">
+        <li id="menu-item-1571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1571"><a href="https://networkwalks.com/cisco-ccna-training/">Cisco CCNA Online Training Course</a></li>
+        <li id="menu-item-3796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3796"><a href="https://networkwalks.com/linux-it-online-training-course/">Linux &#038; IT</a></li>
+        <li id="menu-item-11413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11413"><a href="https://networkwalks.com/cisco-training-courses/cisco-bgp-masterclass/">Cisco BGP Masterclass</a></li>
+        <li id="menu-item-1632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1632"><a href="https://networkwalks.com/cisco-specialist-encor-training-350-401/">Cisco CCNP SPECIALIST Certification (ENCOR 350-401)</a></li>
+        <li id="menu-item-196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-196"><a href="https://networkwalks.com/all-other-courses/">+ Other Courses (coming soon)</a>
+        <ul class="sub-menu">
+                <li id="menu-item-1642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1642"><a href="https://networkwalks.com/huawei-hcia-hcna/">Huawei HCIA (HCNA)</a></li>
+                <li id="menu-item-1639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1639"><a href="https://networkwalks.com/comptia-network-n-plus/">N+ (CompTIA Network+)</a></li>
+                <li id="menu-item-1644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1644"><a href="https://networkwalks.com/itil-foundation/">ITIL Foundation</a></li>
+                <li id="menu-item-1640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640"><a href="https://networkwalks.com/comptia-a-plus/">A+ (CompTIA)</a></li>
+                <li id="menu-item-1641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1641"><a href="https://networkwalks.com/comptia-security-plus/">Security+ (CompTIA)</a></li>
+                <li id="menu-item-1643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1643"><a href="https://networkwalks.com/huawei-hcip-hcnp/">Huawei HCIP (HCNP)</a></li>
+                <li id="menu-item-3477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3477"><a href="https://networkwalks.com/cisco-certified-cyberops-associate/">Cisco Certified CyberOps Associate (CCNA Security)</a></li>
+                <li id="menu-item-1630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1630"><a href="https://networkwalks.com/ccnp-service-provider/">CCNP Service Provider</a></li>
+                <li id="menu-item-1634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1634"><a href="https://networkwalks.com/ccnp-data-center/">CCNP Data Center</a></li>
+                <li id="menu-item-1638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1638"><a href="https://networkwalks.com/ccnp-security/">CCNP Security</a></li>
+                <li id="menu-item-1633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1633"><a href="https://networkwalks.com/ccna-devnet-200-901-devasc/">CCNA DevNet (200-901 DEVASC)</a></li>
+                <li id="menu-item-1631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1631"><a href="https://networkwalks.com/ccie-enterprise/">CCIE Enterprise</a></li>
+                <li id="menu-item-1637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1637"><a href="https://networkwalks.com/ccie-data-center/">CCIE Data Center</a></li>
+                <li id="menu-item-1635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1635"><a href="https://networkwalks.com/ccie-service-provider/">CCIE Service Provider</a></li>
+                <li id="menu-item-1636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1636"><a href="https://networkwalks.com/ccie-security/">CCIE Security</a></li>
+        </ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-3811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3811"><a href="https://networkwalks.com/cybersecurity-ethical-hacking/">Cyber Security &#038; Hacking Courses</a>
+<ul class="sub-menu">
+        <li id="menu-item-3464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3464"><a href="https://networkwalks.com/cybersecurity-ethical-hacking/">CYBER SECURITY WITH ETHICAL HACKING</a></li>
+        <li id="menu-item-3798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3798"><a href="https://networkwalks.com/all-other-courses/">+ Other Courses</a>
+        <ul class="sub-menu">
+                <li id="menu-item-3465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3465"><a href="https://networkwalks.com/comptia-security-plus/">Security+ (CompTIA)</a></li>
+                <li id="menu-item-3476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3476"><a href="https://networkwalks.com/cisco-certified-cyberops-associate/">Cisco Certified CyberOps Associate (CCNA Security)</a></li>
+        </ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-222"><a href="https://networkwalks.com/contact-us/">More Links</a>
+<ul class="sub-menu">
+        <li id="menu-item-9034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9034"><a href="https://networkwalks.com/nw-premium-membership/">Premium Membership</a>
+        <ul class="sub-menu">
+                <li id="menu-item-11412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11412"><a href="https://networkwalks.com/cisco-training-courses/cisco-bgp-masterclass/">Cisco BGP Masterclass</a></li>
+        </ul>
+</li>
+        <li id="menu-item-11573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11573"><a href="https://networkwalks.com/make-your-own-tools-in-python/">Python Programming Courses</a>
+        <ul class="sub-menu">
+                <li id="menu-item-11572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11572"><a href="https://networkwalks.com/make-your-own-tools-in-python/">Python Programming (Make your own tools)</a></li>
+        </ul>
+</li>
+        <li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-227"><a href="https://networkwalks.com/free-resources/">Downloads</a>
+        <ul class="sub-menu">
+                <li id="menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224"><a href="https://networkwalks.com/networkwalks-summary-cheatsheets/">Free Summary Cheatsheets</a></li>
+                <li id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221"><a href="https://networkwalks.com/free-online-quizzes-best-for-cisco-ccna-ccnp-ccie-huawei-hcna-n-jncia-nokia-nrs/">Free Quizzes</a></li>
+                <li id="menu-item-223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="https://networkwalks.com/interview-questions/">Interview Questions</a></li>
+                <li id="menu-item-2154" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2154"><a href="https://networkwalks.com/ip-subnet-calculator-network-walks-academy/">IP Subnet Calculator</a></li>
+                <li id="menu-item-3482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3482"><a href="https://networkwalks.com/free-training-courses-registration-form/">Free Training Course Registration Form</a></li>
+        </ul>
+</li>
+        <li id="menu-item-3457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3457"><a href="https://networkwalks.com/contact-us/">Contact Us</a></li>
+        <li id="menu-item-11469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11469"><a href="https://networkwalks.com/login/">Login</a></li>
+        <li id="menu-item-228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a href="https://networkwalks.com/join-network-walks-as-trainer/">Join us as Trainer</a></li>
+        <li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220"><a href="https://networkwalks.com/blog/">Blog</a></li>
+</ul>
+</li>
+</ul></div>            </div><!-- .menu-content -->
+        </nav><!-- #site-navigation -->
+       </div> <!-- .container -->
+    </div> <!-- #main-nav -->
+    
+        <div id="content" class="site-content"><div class="container"><div class="inner-wrapper">    
+
+
+                <div id="primary" class="content-area">
+                        <main id="main" class="site-main" role="main">
+
+
+
+<article id="post-53" class="post-53 page type-page status-publish has-post-thumbnail hentry">
+        <header class="entry-header">
+                        </header><!-- .entry-header -->
+
+        <div class="entry-content">
+    <img width="200" height="200" src="https://networkwalks.com/wp-content/uploads/2019/12/Network-Walks-Logo-v1.1-small-PNG_200x200.png" class="aligncenter wp-post-image" alt="" decoding="async" srcset="https://networkwalks.com/wp-content/uploads/2019/12/Network-Walks-Logo-v1.1-small-PNG_200x200.png 200w, https://networkwalks.com/wp-content/uploads/2019/12/Network-Walks-Logo-v1.1-small-PNG_200x200-150x150.png 150w, https://networkwalks.com/wp-content/uploads/2019/12/Network-Walks-Logo-v1.1-small-PNG_200x200-50x50.png 50w" sizes="(max-width: 200px) 100vw, 200px" />           <style>
+.nwhm1,.nwhm1 *,.nwhm1 *::before,.nwhm1 *::after{box-sizing:border-box}
+.nwhm1{--nw-maroon:#C00000;--nw-maroon-deep:#8E0000;--nw-maroon-tint:rgba(192,0,0,.06);--nw-grey:#404040;--nw-grey-tint:rgba(64,64,64,.06);--nw-ink:#2A2A30;--nw-body:#5A5A62;--nw-muted:#86868F;--nw-line:rgba(20,20,25,.10);--nw-line-soft:rgba(20,20,25,.07);--nw-surface:#FFFFFF;--nw-canvas:#F7F7F9;--nw-canvas-2:#F1F1F4;--nw-stat-bg:#404040;--nw-radius:14px;--sec-pad:84px;--hero-top:40px;--hero-bot:130px;--stats-pull:-56px;--stats-bot:0px;--close-bot:88px;--nw-font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;--nw-mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-family:var(--nw-font);color:var(--nw-body);background:var(--nw-canvas);line-height:1.65;-webkit-font-smoothing:antialiased;max-width:100%;overflow-x:hidden}
+.nwhm1 p{margin:0 0 1rem}
+.nwhm1 h1,.nwhm1 h2,.nwhm1 h3{font-family:var(--nw-font);color:var(--nw-ink);margin:0 0 .55rem;line-height:1.2;letter-spacing:-.028em}
+.nwhm1 a{text-decoration:none}
+.nwhm1 .nwhm1-inner{width:100%;max-width:1140px!important;margin:0 auto!important;padding:0 26px!important}
+.nwhm1 section{margin:0!important}</p>
+<p>/* HERO */
+.nwhm1-hero{position:relative;background:linear-gradient(180deg,#FFFFFF 0%,#F5F5F7 100%);border-bottom:1px solid var(--nw-line-soft);padding:92px 0 150px!important;overflow:hidden;isolation:isolate}
+.nwhm1-grid-bg{position:absolute;inset:0;z-index:0;background-image:linear-gradient(rgba(20,20,25,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(20,20,25,.045) 1px,transparent 1px);background-size:44px 44px;mask-image:radial-gradient(700px 420px at 22% 40%,rgba(0,0,0,.85),transparent 78%);-webkit-mask-image:radial-gradient(700px 420px at 22% 40%,rgba(0,0,0,.85),transparent 78%);pointer-events:none}
+.nwhm1-hero .nwhm1-inner{position:relative;z-index:1}
+.nwhm1-hero-copy{max-width:840px;margin:0 auto;text-align:center}
+.nwhm1-hero .nwhm1-tags,.nwhm1-hero .nwhm1-actions{justify-content:center}
+.nwhm1-eyebrow{display:inline-flex;align-items:center;gap:9px;font-family:var(--nw-mono);font-size:.72rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--nw-maroon-deep);background:var(--nw-surface);border:1px solid rgba(192,0,0,.20);padding:8px 15px;border-radius:999px;margin-bottom:26px;box-shadow:0 2px 8px rgba(20,20,30,.05)}
+.nwhm1-eyebrow i{display:block;width:7px;height:7px;border-radius:50%;background:var(--nw-maroon);font-style:normal;box-shadow:0 0 0 4px rgba(192,0,0,.14)}
+.nwhm1-hero h1{font-size:clamp(2rem,4.6vw,3.2rem);font-weight:750;letter-spacing:-.03em;line-height:1.25;margin-bottom:22px}
+.nwhm1-hero h1 span{white-space:nowrap}
+.nwhm1-hero h1 em{font-style:normal;color:var(--nw-maroon)}
+.nwhm1-hero-sub{font-size:clamp(1rem,1.45vw,1.13rem);color:var(--nw-body);max-width:640px;margin:0 auto 26px}
+.nwhm1-tags{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:28px}
+.nwhm1-tag{font-family:var(--nw-mono);font-size:.73rem;letter-spacing:.05em;color:#FFFFFF;background:var(--nw-maroon);border:1px solid var(--nw-maroon);border-radius:999px;padding:7px 14px;box-shadow:0 2px 8px rgba(192,0,0,.18);transition:background .25s ease,transform .25s ease}
+.nwhm1-tag:hover{background:var(--nw-maroon-deep);transform:translateY(-2px)}</p>
+<p>/* BUTTONS */
+.nwhm1-actions{display:flex;flex-wrap:wrap;gap:12px}
+.nwhm1 a.nwhm1-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;font-size:.95rem;font-weight:600;letter-spacing:-.01em;padding:13px 26px;border-radius:999px;border:1px solid var(--nw-maroon);background:var(--nw-maroon);color:#FFFFFF;box-shadow:0 6px 18px rgba(192,0,0,.20);transition:background .25s ease,transform .25s ease,box-shadow .25s ease}
+.nwhm1 a.nwhm1-btn:hover,.nwhm1 a.nwhm1-btn:focus-visible{background:var(--nw-maroon-deep);border-color:var(--nw-maroon-deep);color:#FFFFFF;transform:translateY(-2px);box-shadow:0 10px 24px rgba(192,0,0,.26)}
+.nwhm1 a.nwhm1-btn-ghost{background:var(--nw-surface);color:var(--nw-ink);border:1px solid var(--nw-line);box-shadow:0 2px 8px rgba(20,20,30,.05)}
+.nwhm1 a.nwhm1-btn-ghost:hover,.nwhm1 a.nwhm1-btn-ghost:focus-visible{background:var(--nw-surface);color:var(--nw-maroon);border-color:rgba(192,0,0,.30);transform:translateY(-2px);box-shadow:0 10px 24px rgba(20,20,30,.09)}</p>
+<p>/* SECTIONS */
+.nwhm1 .nwhm1-body{padding:80px 0 80px!important;margin:0!important;background:#F7F7F9!important}
+.nwhm1 .nwhm1-body.nwhm1-alt{background:#F1F1F4!important;background-image:radial-gradient(rgba(20,20,25,.055) 1px,transparent 1px);background-size:22px 22px}
+.nwhm1 .nwhm1-cat-head{display:flex;align-items:center;gap:16px;margin:0 0 34px!important}
+.nwhm1-cat-icon{flex:0 0 auto;width:50px;height:50px;display:flex;align-items:center;justify-content:center;background:var(--nw-surface);border:1px solid rgba(192,0,0,.18);border-radius:13px;box-shadow:0 3px 10px rgba(192,0,0,.07)}
+.nwhm1-cat-icon svg{width:25px;height:25px;stroke:var(--nw-maroon);fill:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+.nwhm1-cat-text h2{font-size:clamp(1.28rem,2.3vw,1.6rem);font-weight:700;margin-bottom:2px}
+.nwhm1-cat-text p{margin:0;color:var(--nw-muted);font-size:.95rem;max-width:620px}
+.nwhm1 .nwhm1-grid{display:grid!important;grid-template-columns:repeat(3,1fr);gap:24px!important;margin:0!important;align-items:stretch}
+.nwhm1-grid>p,.nwhm1-grid>br,.nwhm1-grid>p:empty{display:none!important}</p>
+<p>/* CARDS */
+.nwhm1 .nwhm1-card{position:relative!important;display:block!important;float:none!important;background:#FFFFFF!important;border:1px solid rgba(20,20,25,.13)!important;border-top:3px solid #C00000!important;border-radius:var(--nw-radius)!important;padding:32px 28px 30px!important;margin:0!important;box-shadow:0 1px 2px rgba(20,20,30,.04);overflow:hidden!important;color:var(--nw-body);transition:transform .3s cubic-bezier(.2,.7,.3,1),box-shadow .3s ease,border-color .3s ease}
+.nwhm1 .nwhm1-card::before,.nwhm1 .nwhm1-card::after{content:none!important;display:none!important}
+.nwhm1 .nwhm1-card.nwhm1-grey{border-top-color:#404040!important}
+.nwhm1 .nwhm1-card:hover,.nwhm1 .nwhm1-card:focus-within{transform:translateY(-6px);box-shadow:0 20px 40px rgba(20,20,30,.10);border-color:rgba(192,0,0,.22)!important;border-top-color:#C00000!important}
+.nwhm1 .nwhm1-card-icon{width:40px!important;height:40px!important;display:flex!important;align-items:center;justify-content:center;border-radius:11px!important;background:var(--nw-maroon-tint)!important;border:1px solid rgba(192,0,0,.16)!important;margin:0 0 16px!important;padding:0!important;transition:background .3s ease,border-color .3s ease}
+.nwhm1 .nwhm1-card-icon svg{width:21px;height:21px;stroke:var(--nw-maroon);fill:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;transition:stroke .3s ease}
+.nwhm1 .nwhm1-card.nwhm1-grey .nwhm1-card-icon{background:var(--nw-grey-tint)!important;border-color:rgba(64,64,64,.18)!important}
+.nwhm1 .nwhm1-card.nwhm1-grey .nwhm1-card-icon svg{stroke:var(--nw-grey)}
+.nwhm1 .nwhm1-card.nwhm1-grey:hover .nwhm1-card-icon{background:var(--nw-maroon-tint)!important;border-color:rgba(192,0,0,.16)!important}
+.nwhm1 .nwhm1-card.nwhm1-grey:hover .nwhm1-card-icon svg{stroke:var(--nw-maroon)}
+.nwhm1 .nwhm1-card h3{font-size:1.07rem;font-weight:650;margin:0 0 11px;letter-spacing:-.015em}
+.nwhm1 .nwhm1-card p{margin:0;font-size:.94rem;color:var(--nw-body);line-height:1.68}
+.nwhm1 a.nwhm1-more{display:inline-block;margin-top:14px;font-family:var(--nw-mono);font-size:.76rem;letter-spacing:.07em;text-transform:uppercase;color:var(--nw-maroon);font-weight:600}
+.nwhm1 a.nwhm1-more::after{content:"";position:absolute;top:0;right:0;bottom:0;left:0;z-index:2}
+.nwhm1 a.nwhm1-more:hover{color:var(--nw-maroon-deep)}
+.nwhm1 .nwhm1-sec-actions{margin:38px 0 0!important;display:flex;flex-wrap:wrap;gap:12px;justify-content:center}</p>
+<p>/* COMPACT CARDS FOR FREE RESOURCES */
+.nwhm1 .nwhm1-card.nwhm1-mini{padding:24px 22px!important}
+.nwhm1 .nwhm1-card.nwhm1-mini h3{font-size:1rem;margin-bottom:7px}
+.nwhm1 .nwhm1-card.nwhm1-mini p{font-size:.9rem}</p>
+<p>/* STATS */
+.nwhm1 .nwhm1-stats{background:#F7F7F9!important;position:relative;z-index:2;margin:-56px 0 0!important;padding:0 0 60px!important}
+.nwhm1-stats-card{background:var(--nw-stat-bg);border:1px solid rgba(20,20,25,.18);border-radius:var(--nw-radius);box-shadow:0 16px 40px rgba(20,20,30,.07);display:grid;grid-template-columns:repeat(4,1fr);overflow:hidden}
+.nwhm1-stat{padding:30px 20px;text-align:center;border-right:1px solid rgba(255,255,255,.16)}
+.nwhm1-stat:last-child{border-right:0}
+.nwhm1-stat-num{display:block;font-size:1.9rem;font-weight:700;color:#FFFFFF;letter-spacing:-.03em;line-height:1.1;margin-bottom:3px}
+.nwhm1-stat-label{font-family:var(--nw-mono);font-size:.73rem;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.72)}</p>
+<p>/* CLOSING CTA */
+.nwhm1 .nwhm1-close{background:#F1F1F4!important;margin:0!important;padding:0 0 88px!important}
+.nwhm1-close-card{position:relative;background:var(--nw-surface);border:1px solid var(--nw-line);border-top:3px solid var(--nw-maroon);border-radius:var(--nw-radius);box-shadow:0 16px 40px rgba(20,20,30,.07);padding:56px 40px!important;text-align:center;overflow:hidden}
+.nwhm1-close-card::before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(20,20,25,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(20,20,25,.04) 1px,transparent 1px);background-size:34px 34px;mask-image:radial-gradient(420px 220px at 50% 0%,rgba(0,0,0,.7),transparent 75%);-webkit-mask-image:radial-gradient(420px 220px at 50% 0%,rgba(0,0,0,.7),transparent 75%);pointer-events:none}
+.nwhm1-close-inner{position:relative;z-index:1}
+.nwhm1-close-card h2{font-size:clamp(1.35rem,2.6vw,1.9rem);font-weight:700;margin-bottom:10px}
+.nwhm1-close-card p{color:var(--nw-body);max-width:600px;margin:0 auto 24px;font-size:1rem}
+.nwhm1-close-card .nwhm1-actions{justify-content:center}</p>
+<p>/* MOTION */
+.nwhm1-reveal{opacity:0;transform:translateY(20px);transition:opacity .65s ease,transform .65s cubic-bezier(.2,.7,.3,1)}
+.nwhm1-reveal.nwhm1-in{opacity:1;transform:none}
+.nwhm1 a:focus-visible{outline:2px solid var(--nw-maroon);outline-offset:3px}</p>
+<p>/* RESPONSIVE */
+@media (max-width:1100px){.nwhm1 .nwhm1-grid{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:980px){.nwhm1-stats-card{grid-template-columns:repeat(2,1fr)}.nwhm1-stat:nth-child(2){border-right:0}.nwhm1-stat:nth-child(1),.nwhm1-stat:nth-child(2){border-bottom:1px solid rgba(255,255,255,.16)}}
+@media (max-width:680px){.nwhm1{--sec-pad:56px;--hero-top:28px;--hero-bot:104px;--stats-pull:-44px;--stats-bot:0px;--close-bot:58px}.nwhm1 .nwhm1-hero{padding:56px 0 110px!important}.nwhm1 .nwhm1-body{padding:56px 0 56px!important}.nwhm1 .nwhm1-stats{margin-top:-48px!important;padding-bottom:48px!important}.nwhm1 .nwhm1-grid{grid-template-columns:1fr}.nwhm1 .nwhm1-close{padding-bottom:58px!important}.nwhm1-close-card{padding:44px 24px!important}.nwhm1 a.nwhm1-btn{width:100%}}
+@media (prefers-reduced-motion:reduce){.nwhm1 *{transition:none !important;animation:none !important}.nwhm1-reveal{opacity:1;transform:none}}
+.nwhm1>p,.nwhm1>br,.nwhm1 section>p:empty,.nwhm1 br{display:none!important}
+</style>
+<div class="nwhm1">
+<p><!-- ================= HERO ================= --></p>
+<section class="nwhm1-hero" style="padding-top:var(--hero-top);padding-bottom:var(--hero-bot);background:#FFFFFF">
+<div class="nwhm1-grid-bg" aria-hidden="true" style="position:absolute;top:0;right:0;bottom:0;left:0;z-index:0;background-image:linear-gradient(rgba(20,20,25,.075) 1px,transparent 1px),linear-gradient(90deg,rgba(20,20,25,.075) 1px,transparent 1px);background-size:44px 44px;-webkit-mask-image:radial-gradient(900px 520px at 50% 45%,rgba(0,0,0,.95),transparent 78%);mask-image:radial-gradient(900px 520px at 50% 45%,rgba(0,0,0,.95),transparent 78%);pointer-events:none"></div>
+<div class="nwhm1-inner">
+<div class="nwhm1-hero-copy">
+<span class="nwhm1-eyebrow"><i></i>Networkwalks IT Solutions &amp; Trainings</span></p>
+<h1><span>Cybersecurity</span> <em>Networking</em> <em>Pentesting</em> <span>Artificial Intelligence</span> <span>Python</span> <em>Linux</em></h1>
+<p class="nwhm1-hero-sub" style="max-width:680px;margin:0 auto 26px;text-align:center">Education &amp; professional services offered in areas of Cybersecurity, Networking, IT consultancy, AI Security, Linux &amp; Python Programming</p>
+<div class="nwhm1-tags"><span class="nwhm1-tag">Cisco CCNA</span><span class="nwhm1-tag">Ethical Hacking</span><span class="nwhm1-tag">Python</span><span class="nwhm1-tag">Linux</span><span class="nwhm1-tag">AI Security</span></div>
+<div class="nwhm1-actions">
+<a class="nwhm1-btn" href="#nwhm1-courses">Browse courses</a><br />
+<a class="nwhm1-btn nwhm1-btn-ghost" href="https://networkwalks.com/services/">Browse Services</a>
+</div>
+</div>
+</div>
+</section>
+<p><!-- ================= COUNTERS ================= --></p>
+<section class="nwhm1-stats" style="margin-top:var(--stats-pull);margin-bottom:0;padding-top:0;padding-bottom:var(--stats-bot)">
+<div class="nwhm1-inner nwhm1-reveal">
+<div class="nwhm1-stats-card">
+<div class="nwhm1-stat"><span class="nwhm1-stat-num" data-count="20" data-suffix="+">20+</span><span class="nwhm1-stat-label">Years of experience</span></div>
+<div class="nwhm1-stat"><span class="nwhm1-stat-num" data-count="81" data-suffix="k+">81k+</span><span class="nwhm1-stat-label">Students trained</span></div>
+<div class="nwhm1-stat"><span class="nwhm1-stat-num" data-count="1" data-suffix="k+">1k+</span><span class="nwhm1-stat-label">Projects completed</span></div>
+<div class="nwhm1-stat"><span class="nwhm1-stat-num">CCIE</span><span class="nwhm1-stat-label">Certified trainer</span></div>
+</div>
+</div>
+</section>
+<p><!-- ================= SERVICES ================= --></p>
+<section class="nwhm1-body" id="nwhm1-services" style="padding-top:var(--sec-pad);padding-bottom:var(--sec-pad);margin:0">
+<div class="nwhm1-inner nwhm1-reveal">
+<div class="nwhm1-cat-head">
+<div class="nwhm1-cat-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.6 4.6 5.6v5.7c0 4.9 3.1 8.3 7.4 9.9 4.3-1.6 7.4-5 7.4-9.9V5.6L12 2.6Z"/><circle cx="12" cy="10.9" r="1.7"/><path d="M12 12.6v2.5"/></svg></div>
+<div class="nwhm1-cat-text">
+<h2>Services for business</h2>
+<p>We test your defences, fix what is weak and keep your infrastructure running.</p>
+</div>
+</div>
+<div class="nwhm1-grid">
+<article class="nwhm1-card" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #C00000 !important;border-radius:14px !important;padding:32px 28px 30px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.4"/><circle cx="12" cy="12" r="3.4"/><path d="M12 1.8v3.4M12 18.8v3.4M1.8 12h3.4M18.8 12h3.4"/></svg></div>
+<h3>Penetration Testing</h3>
+<p>We simulate real attacks on your network, web apps and mobile apps, then give you a clear report with simple steps to fix each issue.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/services/">Learn more</a><br />
+</article>
+<article class="nwhm1-card nwhm1-grey" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #404040 !important;border-radius:14px !important;padding:32px 28px 30px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6.6" y="6.6" width="10.8" height="10.8" rx="2.6"/><path d="M9.8 3.2v3.4M14.2 3.2v3.4M9.8 17.4v3.4M14.2 17.4v3.4M3.2 9.8h3.4M3.2 14.2h3.4M17.4 9.8h3.4M17.4 14.2h3.4"/><rect x="10" y="11.6" width="4" height="3.2" rx=".7"/><path d="M10.9 11.6v-.9a1.1 1.1 0 0 1 2.2 0v.9"/></svg></div>
+<h3>AI Security</h3>
+<p>We test your AI chatbots and agents for prompt injection and data leakage, and help you use AI safely with clear policies.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/services/">Learn more</a><br />
+</article>
+<article class="nwhm1-card" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #C00000 !important;border-radius:14px !important;padding:32px 28px 30px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="7.6" y="2.8" width="8.8" height="4.6" rx="1.3"/><path d="M12 7.4v3.6M4.8 18.6v-3.4h14.4v3.4M12 11v4.2"/><rect x="2.6" y="18.6" width="4.4" height="2.6" rx=".8"/><rect x="9.8" y="18.6" width="4.4" height="2.6" rx=".8"/><rect x="17" y="18.6" width="4.4" height="2.6" rx=".8"/></svg></div>
+<h3>Network Design &amp; Deployment</h3>
+<p>We design and build LAN, WAN, SD-WAN and Wi-Fi that stays fast and stable, from small offices to multi site enterprises.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/services/">Learn more</a><br />
+</article>
+<article class="nwhm1-card nwhm1-grey" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #404040 !important;border-radius:14px !important;padding:32px 28px 30px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.8"/><path d="M15.4 8.6 13.7 13.7 8.6 15.4l1.7-5.1 5.1-1.7Z"/></svg></div>
+<h3>Consultancy &amp; vCISO</h3>
+<p>Independent advice on where to invest and what to fix first, plus part time security leadership without a full time hire.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/services/">Learn more</a><br />
+</article>
+<article class="nwhm1-card" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #C00000 !important;border-radius:14px !important;padding:32px 28px 30px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="11.4" rx="2.1"/><path d="M12 15.4v3.6M8.6 19h6.8"/><path d="M7.6 11.6l2.6-2.9 2 2 2.4-3"/></svg></div>
+<h3>Corporate Training</h3>
+<p>Hands on training for your IT and security teams, onsite or online, built around your own tools and network.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/services/">Learn more</a><br />
+</article>
+<article class="nwhm1-card nwhm1-grey" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #404040 !important;border-radius:14px !important;padding:32px 28px 30px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="6.2" rx="1.7"/><rect x="3" y="13.8" width="18" height="6.2" rx="1.7"/><path d="M6.6 7.1h.01M6.6 16.9h.01"/><path d="M16.6 7.1h2M16.6 16.9h2"/></svg></div>
+<h3>Managed IT &amp; Support</h3>
+<p>We look after your network and IT infrastructure with monitoring, patching and quick response when something breaks.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/services/">Learn more</a><br />
+</article>
+</div>
+<div class="nwhm1-sec-actions"><a class="nwhm1-btn" href="https://networkwalks.com/services/">See all services</a></div>
+</div>
+</section>
+<p><!-- ================= COURSES ================= --></p>
+<section class="nwhm1-body nwhm1-alt" id="nwhm1-courses" style="padding-top:var(--sec-pad);padding-bottom:var(--sec-pad);margin:0">
+<div class="nwhm1-inner nwhm1-reveal">
+<div class="nwhm1-cat-head">
+<div class="nwhm1-cat-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.8 3.6 6.5 12 10.2l8.4-3.7L12 2.8Z"/><path d="M6.9 8.7v4.1c0 1.7 2.3 3 5.1 3s5.1-1.3 5.1-3V8.7"/><path d="M20.4 6.5v5.1"/><path d="M8.4 19.6l1.7 1.6M15.6 19.6l-1.7 1.6"/></svg></div>
+<div class="nwhm1-cat-text">
+<h2>Online training courses</h2>
+<p>Live classes, recorded sessions and real labs. Start from zero or go deeper in your speciality.</p>
+</div>
+</div>
+<div class="nwhm1-grid">
+<article class="nwhm1-card" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #C00000 !important;border-radius:14px !important;padding:32px 28px 30px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8.6" r="4.2"/><path d="M9.2 12.2 8 21l4-2.5L16 21l-1.2-8.8"/></svg></div>
+<h3>Cyber IT Diploma</h3>
+<p>Our complete programme. Networking, Linux, Python and cybersecurity in one track, from basics to job ready.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/it-diploma-course/">View course</a><br />
+</article>
+<article class="nwhm1-card nwhm1-grey" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #404040 !important;border-radius:14px !important;padding:32px 28px 30px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="8.8" y="2.8" width="6.4" height="4.6" rx="1.3"/><circle cx="4.4" cy="18.8" r="2.2"/><circle cx="12" cy="18.8" r="2.2"/><circle cx="19.6" cy="18.8" r="2.2"/><path d="M12 7.4v4.4M12 11.8h-7.6v4.8M12 11.8v4.8M12 11.8h7.6v4.8"/></svg></div>
+<h3>Cisco CCNA 200-301</h3>
+<p>Build a strong base in routing, switching, IP addressing and security, with lab practice in every session.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/cisco-ccna-training/">View course</a><br />
+</article>
+<article class="nwhm1-card" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #C00000 !important;border-radius:14px !important;padding:32px 28px 30px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.6 4.6 5.6v5.7c0 4.9 3.1 8.3 7.4 9.9 4.3-1.6 7.4-5 7.4-9.9V5.6L12 2.6Z"/><path d="M9.2 12.2l2 2 3.6-3.9"/></svg></div>
+<h3>Cybersecurity with Ethical Hacking</h3>
+<p>Learn how attacks really work and how to stop them, using the same tools that professionals use in the field.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/cybersecurity-ethical-hacking/">View course</a><br />
+</article>
+<article class="nwhm1-card nwhm1-grey" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #404040 !important;border-radius:14px !important;padding:32px 28px 30px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.6 18.6c4.2-1 3.2-6 7.4-7.4 4.2-1.4 3.2-4.4 7.4-5.8"/><circle cx="4.6" cy="18.6" r="1.9"/><circle cx="12" cy="11.2" r="1.9"/><circle cx="19.4" cy="5.4" r="1.9"/></svg></div>
+<h3>Cisco BGP Masterclass</h3>
+<p>Go deep into BGP for service provider and enterprise networks, with attributes, policies and troubleshooting.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/cisco-training-courses/cisco-bgp-masterclass/">View course</a><br />
+</article>
+<article class="nwhm1-card" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #C00000 !important;border-radius:14px !important;padding:32px 28px 30px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.8" y="4.4" width="18.4" height="15.2" rx="2.4"/><path d="M2.8 8.6h18.4"/><path d="M5.6 6.5h.01M8 6.5h.01"/><path d="M7 12.2l2.2 2.2L7 16.6"/><path d="M11.8 16.6h5"/></svg></div>
+<h3>Python Programming</h3>
+<p>Write your own network and security tools, automate boring tasks and stop depending on someone else&#8217;s script.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/make-your-own-tools-in-python/">View course</a><br />
+</article>
+<article class="nwhm1-card nwhm1-grey" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #404040 !important;border-radius:14px !important;padding:32px 28px 30px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="12.4" rx="2.1"/><path d="M12 16.4v3.2M8.4 19.6h7.2"/><path d="M7.4 8.8l2.2 2.2-2.2 2.2"/><path d="M12.2 13.2h4"/></svg></div>
+<h3>Linux &amp; IT Essentials</h3>
+<p>Get comfortable on the Linux command line, the base skill behind cybersecurity, cloud and automation work.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/linux-it-online-training-course/">View course</a><br />
+</article>
+</div>
+<div class="nwhm1-sec-actions">
+<a class="nwhm1-btn" href="https://networkwalks.com/cisco-training-courses/">All Cisco &amp; IT courses</a><br />
+<a class="nwhm1-btn nwhm1-btn-ghost" href="https://networkwalks.com/free-training-courses-registration-form/">Register for a free class</a>
+</div>
+</div>
+</section>
+<p><!-- ================= FREE RESOURCES ================= --></p>
+<section class="nwhm1-body nwhm1-alt" id="nwhm1-resources" style="padding-top:var(--sec-pad);padding-bottom:var(--sec-pad);margin:0">
+<div class="nwhm1-inner nwhm1-reveal">
+<div class="nwhm1-cat-head">
+<div class="nwhm1-cat-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.2 5.4a2 2 0 0 1 2-2H10a2 2 0 0 1 2 2v14a1.6 1.6 0 0 0-1.6-1.6H6.2a2 2 0 0 1-2-2V5.4Z"/><path d="M19.8 5.4a2 2 0 0 0-2-2H14a2 2 0 0 0-2 2v14a1.6 1.6 0 0 1 1.6-1.6h4.2a2 2 0 0 0 2-2V5.4Z"/></svg></div>
+<div class="nwhm1-cat-text">
+<h2>Free resources</h2>
+<p>Cheatsheets, quizzes and tools you can use today, no payment and no signup.</p>
+</div>
+</div>
+<div class="nwhm1-grid">
+<article class="nwhm1-card nwhm1-mini" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #C00000 !important;border-radius:14px !important;padding:24px 22px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3.4h9l4 4v13.2H6z"/><path d="M15 3.4v4h4"/><path d="M9 12h7M9 15.4h7"/></svg></div>
+<h3>Summary Cheatsheets</h3>
+<p>One page summaries for CCNA, CCNP, Huawei and more.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/networkwalks-summary-cheatsheets/">Download</a><br />
+</article>
+<article class="nwhm1-card nwhm1-grey nwhm1-mini" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #404040 !important;border-radius:14px !important;padding:24px 22px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.6"/><path d="M9.8 9.4a2.3 2.3 0 1 1 3.2 2.1c-.7.3-1 .9-1 1.6v.4"/><path d="M12 17h.01"/></svg></div>
+<h3>Free Quizzes</h3>
+<p>Test yourself before the real exam and find your weak areas.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/free-online-quizzes-best-for-cisco-ccna-ccnp-ccie-huawei-hcna-n-jncia-nokia-nrs/">Start a quiz</a><br />
+</article>
+<article class="nwhm1-card nwhm1-mini" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #C00000 !important;border-radius:14px !important;padding:24px 22px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.6a2.4 2.4 0 0 1-2.4 2.4H8.4L4 20.4V6a2.4 2.4 0 0 1 2.4-2.4h11.2A2.4 2.4 0 0 1 20 6Z"/><path d="M8.4 8.8h7.2M8.4 12.2h4.4"/></svg></div>
+<h3>Interview Questions</h3>
+<p>Real questions asked in network and security job interviews.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/interview-questions/">Read now</a><br />
+</article>
+<article class="nwhm1-card nwhm1-grey nwhm1-mini" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #404040 !important;border-radius:14px !important;padding:24px 22px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="3" width="14" height="18" rx="2.2"/><path d="M8.4 7.4h7.2"/><path d="M8.6 11.6h.01M12 11.6h.01M15.4 11.6h.01M8.6 15h.01M12 15h.01M15.4 15h.01M8.6 18h6.8"/></svg></div>
+<h3>IP Subnet Calculator</h3>
+<p>Work out subnets, ranges and masks in seconds.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/ip-subnet-calculator-network-walks-academy/">Open tool</a><br />
+</article>
+<article class="nwhm1-card nwhm1-mini" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #C00000 !important;border-radius:14px !important;padding:24px 22px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.8" y="4.4" width="18.4" height="15.2" rx="2.2"/><path d="M2.8 8.7h18.4"/><path d="M5.6 6.5h.01M8 6.5h.01"/><path d="M6.6 12.4l2.2 2.2-2.2 2.2"/><path d="M11.4 16.8h5.6"/></svg></div>
+<h3>Lab Practice &amp; Blog</h3>
+<p>Step by step labs on Nmap, password cracking, BGP and more.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/blog/">Read the labs</a><br />
+</article>
+<article class="nwhm1-card nwhm1-grey nwhm1-mini" style="background:#FFFFFF !important;border:1px solid rgba(20,20,25,.13) !important;border-top:3px solid #404040 !important;border-radius:14px !important;padding:24px 22px !important;margin:0 !important;display:block !important;position:relative !important;overflow:hidden !important;box-shadow:0 1px 2px rgba(20,20,30,.04) !important;">
+<div class="nwhm1-card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9.2 4.6H7.5A1.5 1.5 0 0 0 6 6.1v13.4a1.5 1.5 0 0 0 1.5 1.5h9a1.5 1.5 0 0 0 1.5-1.5V6.1a1.5 1.5 0 0 0-1.5-1.5h-1.7"/><rect x="9.2" y="2.9" width="5.6" height="3.4" rx="1.1"/><path d="M9.3 13.4l2 2 3.5-3.8"/></svg></div>
+<h3>Free Class Registration</h3>
+<p>Join a free session and see how we teach before you pay.</p>
+<p><a class="nwhm1-more" href="https://networkwalks.com/free-training-courses-registration-form/">Register free</a><br />
+</article>
+</div>
+</div>
+</section>
+<p><!-- ================= FINAL CTA ================= --></p>
+<section class="nwhm1-close" style="padding-top:0;padding-bottom:var(--close-bot);margin:0">
+<div class="nwhm1-inner">
+<div class="nwhm1-close-card nwhm1-reveal">
+<div class="nwhm1-close-inner">
+<h2>Not sure which course to start with?</h2>
+<p>Tell us your background and where you want to reach. We will suggest the right starting point honestly, even if that means a free resource instead of a paid course.</p>
+<div class="nwhm1-actions">
+<a class="nwhm1-btn" href="https://wa.me/27766222218">Chat on WhatsApp</a><br />
+<a class="nwhm1-btn nwhm1-btn-ghost" href="https://networkwalks.com/contact-us/">Contact us</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<p><script>
+(function(){
+  var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var items = document.querySelectorAll('.nwhm1-reveal');
+  if(!items.length) return;</p>
+<p>  function runCount(el){
+    var target = parseInt(el.getAttribute('data-count'),10);
+    var suffix = el.getAttribute('data-suffix') || '';
+    if(isNaN(target)) return;
+    var dur = 1200, start = null;
+    function step(ts){
+      if(!start) start = ts;
+      var p = Math.min((ts - start)/dur, 1);
+      var eased = 1 - Math.pow(1 - p, 3);
+      el.textContent = Math.round(target * eased) + suffix;
+      if(p < 1) requestAnimationFrame(step);
+    }
+    requestAnimationFrame(step);
+  }
+
+  if(!('IntersectionObserver' in window) || reduce){
+    for(var i=0;i<items.length;i++){ items[i].classList.add('nwhm1-in'); }
+    return;
+  }
+
+  var io = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if(!e.isIntersecting) return;
+      e.target.classList.add('nwhm1-in');
+      var inner = e.target.querySelectorAll('.nwhm1-stat-num[data-count]');
+      for(var i=0;i<inner.length;i++){ runCount(inner[i]); }
+      io.unobserve(e.target);
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
+
+  items.forEach(function(el){ io.observe(el); });
+})();
+</script></p>
+                        </div><!-- .entry-content -->
+
+        <footer class="entry-footer">
+                        </footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+
+
+                        </main><!-- #main -->
+                </div><!-- #primary -->
+
+
+
+
+</div><!-- .inner-wrapper --></div><!-- .container --></div><!-- #content -->
+        <footer id="colophon" class="site-footer" role="contentinfo"><div class="container">    
+                <div id="footer-navigation" class="menu-main-container"><ul id="menu-main" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-229"><a href="https://networkwalks.com/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17637"><a href="https://networkwalks.com/services/">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17453"><a href="https://networkwalks.com/it-diploma-course/">Cyber IT Diploma</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-183"><a href="https://networkwalks.com/cisco-training-courses/">Cisco &#038; IT Courses</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3811"><a href="https://networkwalks.com/cybersecurity-ethical-hacking/">Cyber Security &#038; Hacking Courses</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="https://networkwalks.com/contact-us/">More Links</a></li>
+</ul></div>              <div class="copyright">
+        Copyright &copy; 2026 <a href="https://networkwalks.com/">Networkwalks Academy</a>. All rights reserved.      </div><!-- .copyright -->
+                </div><!-- .container --></footer><!-- #colophon -->
+</div><!-- #page --><a href="#page" class="scrollup" id="btn-scrollup"><i class="fa fa-chevron-up"></i></a>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/education-hub-pro/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+            <script>
+                const abmsg = "We noticed an ad blocker. Consider whitelisting us to support the site ❤️";
+                const abmsgd = "download";
+                const iswpdmpropage = 0;
+                jQuery(function($){
+
+                    
+                });
+            </script>
+            <div id="fb-root"></div>
+            
+<!--Start of Tawk.to Script (0.9.3)-->
+<script id="tawk-script" type="text/javascript">
+var Tawk_API = Tawk_API || {};
+var Tawk_LoadStart=new Date();
+(function(){
+        var s1 = document.createElement( 'script' ),s0=document.getElementsByTagName( 'script' )[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/5e38a5dda89cda5a1883efb9/default';
+        s1.charset = 'UTF-8';
+        s1.setAttribute( 'crossorigin','*' );
+        s0.parentNode.insertBefore( s1, s0 );
+})();
+</script>
+<!--End of Tawk.to Script (0.9.3)-->
+
+<script>(function() {
+  window.addEventListener('load', function() {
+    
+    // Disable on mobile
+    if (window.innerWidth < 768) return;
+    
+    var sidebar = document.getElementById('sidebar-primary');
+    if (!sidebar) return;
+
+    var container = sidebar.parentElement;
+    container.style.position = 'relative';
+
+    var offset = 20;
+    var initialTop = sidebar.getBoundingClientRect().top + window.pageYOffset;
+    var sidebarWidth = sidebar.offsetWidth;
+    var sidebarLeft = sidebar.getBoundingClientRect().left;
+    var footer = document.getElementById('colophon');
+
+    window.addEventListener('scroll', function() {
+      var scrolled = window.pageYOffset;
+      var footerTop = footer ? footer.getBoundingClientRect().top : 9999;
+      var sidebarHeight = sidebar.offsetHeight;
+
+      if (footerTop <= offset) {
+        sidebar.style.position = 'absolute';
+        sidebar.style.bottom = '0';
+        sidebar.style.top = 'auto';
+        sidebar.style.left = '';
+        sidebar.style.width = sidebarWidth + 'px';
+      } else if (scrolled + offset >= initialTop) {
+        sidebar.style.position = 'fixed';
+        sidebar.style.top = offset + 'px';
+        sidebar.style.bottom = 'auto';
+        sidebar.style.left = sidebarLeft + 'px';
+        sidebar.style.width = sidebarWidth + 'px';
+        sidebar.style.zIndex = '999';
+      } else {
+        sidebar.style.position = '';
+        sidebar.style.top = '';
+        sidebar.style.bottom = '';
+        sidebar.style.left = '';
+        sidebar.style.width = '';
+        sidebar.style.zIndex = '';
+      }
+    });
+  });
+})();</script><script id="wp-hooks-js" src="https://networkwalks.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255"></script>
+<script id="wp-i18n-js" src="https://networkwalks.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="swv-js" src="https://networkwalks.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.2.5"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/networkwalks.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script id="contact-form-7-js" src="https://networkwalks.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.2.5"></script>
+<script id="wpsm_count_bootstrap-js-front-js" src="https://networkwalks.com/wp-content/plugins/counter-number-showcase/assets/js/bootstrap.js?ver=7.1.4"></script>
+<script id="wpsm-new_count_script3-js" src="https://networkwalks.com/wp-content/plugins/counter-number-showcase/assets/js/counter_nscript.js?ver=7.1.4"></script>
+<script id="wpsm-new_count_waypoints-js" src="https://networkwalks.com/wp-content/plugins/counter-number-showcase/assets/js/waypoints.min.js?ver=7.1.4"></script>
+<script id="wpsm-new_count_script2-js" src="https://networkwalks.com/wp-content/plugins/counter-number-showcase/assets/js/jquery.counterup.min.js?ver=7.1.4"></script>
+<script id="jquery-form-js" src="https://networkwalks.com/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0"></script>
+<script id="wp-video-popup-js" src="https://networkwalks.com/wp-content/plugins/responsive-youtube-vimeo-popup/assets/js/wp-video-popup.js?ver=2.11.1"></script>
+<script id="theme-my-login-js-extra">
+var themeMyLogin = {"action":"","errors":[],"autofocus":"1","showPasswordLabel":"Show password","hidePasswordLabel":"Hide password","ajaxErrorMessage":"An error occurred while processing your request. Please try again later."};
+//# sourceURL=theme-my-login-js-extra
+</script>
+<script id="theme-my-login-js" src="https://networkwalks.com/wp-content/plugins/theme-my-login/assets/scripts/theme-my-login.min.js?ver=7.3.1"></script>
+<script id="tmip-local-stats-js-extra">
+var tmipLocalStats = {"ajaxurl":"https://networkwalks.com/wp-admin/admin-ajax.php","nonce":"e1a2080a1b","post_id":"53","is_admin":"","fast_ajax":"","load_plugins":"[\"tracemyip-visitor-analytics-ip-tracking-control\\/TraceMyIP-Wordpress-Plugin.php\"]","paginationNonce":"500b3ea26a"};
+var tmipLocalStats = {"ajaxurl":"https://networkwalks.com/wp-admin/admin-ajax.php","nonce":"e1a2080a1b","post_id":"53","is_admin":"","fast_ajax":"","load_plugins":"[\"tracemyip-visitor-analytics-ip-tracking-control\\/TraceMyIP-Wordpress-Plugin.php\"]","paginationNonce":"500b3ea26a"};
+var tmipLocalStats = {"ajaxurl":"https://networkwalks.com/wp-admin/admin-ajax.php","nonce":"e1a2080a1b","post_id":"53","is_admin":"","fast_ajax":"","load_plugins":"[\"tracemyip-visitor-analytics-ip-tracking-control\\/TraceMyIP-Wordpress-Plugin.php\"]","paginationNonce":"500b3ea26a"};
+//# sourceURL=tmip-local-stats-js-extra
+</script>
+<script id="tmip-local-stats-js" src="https://networkwalks.com/wp-content/plugins/tracemyip-visitor-analytics-ip-tracking-control/includes/local_stats/assets/js/ls-js-admin.js?ver=2.75"></script>
+<script id="education-hub-skip-link-focus-fix-js" src="https://networkwalks.com/wp-content/themes/education-hub-pro/js/skip-link-focus-fix.min.js?ver=20130115"></script>
+<script id="jquery-cycle2-js" src="https://networkwalks.com/wp-content/themes/education-hub-pro/third-party/cycle2/js/jquery.cycle2.min.js?ver=2.1.6"></script>
+<script id="jquery-easy-ticker-js" src="https://networkwalks.com/wp-content/themes/education-hub-pro/third-party/ticker/jquery.easy-ticker.min.js?ver=2.0"></script>
+<script id="education-hub-custom-js" src="https://networkwalks.com/wp-content/themes/education-hub-pro/js/custom.min.js?ver=1.0"></script>
+<script id="education-hub-navigation-js-extra">
+var Education_Hub_Screen_Reader_Text = {"expand":"\u003Cspan class=\"screen-reader-text\"\u003Eexpand child menu\u003C/span\u003E","collapse":"\u003Cspan class=\"screen-reader-text\"\u003Ecollapse child menu\u003C/span\u003E"};
+//# sourceURL=education-hub-navigation-js-extra
+</script>
+<script id="education-hub-navigation-js" src="https://networkwalks.com/wp-content/themes/education-hub-pro/js/navigation.min.js?ver=20160421"></script>
+<script id="q2w3_fixed_widget-js-extra">
+var q2w3_sidebar_options = [{"use_sticky_position":true,"margin_top":100,"margin_bottom":50,"stop_elements_selectors":".site-footer","screen_max_width":800,"screen_max_height":0,"widgets":[]}];
+//# sourceURL=q2w3_fixed_widget-js-extra
+</script>
+<script id="q2w3_fixed_widget-js" src="https://networkwalks.com/wp-content/plugins/q2w3-fixed-widget/js/frontend.min.js?ver=6.2.3"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://networkwalks.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://networkwalks.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+<!-- Start: Copyright 2019 TraceMyIP.org Service Code (220850-11182019)- DO NOT MODIFY //-->
+<div style="line-height:16px;text-align:center;"><script async type="text/javascript" src="//s3.tracemyip.org/tracker/lgUrl.php?stlVar2=1411&amp;rgtype=4684NR-IPIB&amp;pidnVar2=50511&amp;prtVar2=7&amp;scvVar2=12"></script><noscript><a href="https://www.tracemyip.org/tools/link-click-tracker-ad-clicks-counter-ip-blocker/"><img src="//s3.tracemyip.org/tracker/1411/4684NR-IPIB/50511/7/12/ans/" alt="link views tracking free program" style="border:0px;"></a></noscript></div> <!-- End: TraceMyIP.org Service Code //--></body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
+
+Page Caching using Disk: Enhanced (SSL caching disabled) 
+Database Caching 1/154 queries in 0.071 seconds using Disk
+
+Served from: networkwalks.com @ 2026-11-13 16:05:00 by W3 Total Cache
+-->                                                                                                                                                                                                                                           
